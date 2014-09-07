@@ -1,0 +1,4 @@
+*.o
+Makefile
+moc_badger.cpp
+qrc_qml.cpp
